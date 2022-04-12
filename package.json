@@ -1,0 +1,23 @@
+{
+  "name": "icewater_public_review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icewatersteam/icewater_public_review.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icewatersteam/icewater_public_review/issues"
+  },
+  "homepage": "https://github.com/icewatersteam/icewater_public_review#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "truffle": "^5.5.9"
+  }
+}
