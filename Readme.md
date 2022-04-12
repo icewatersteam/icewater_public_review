@@ -1,3 +1,7 @@
+# Setup
+
+   npm install
+
 # To compile
 
     truffle compile
