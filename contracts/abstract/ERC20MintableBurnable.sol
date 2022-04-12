@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 // todo fail with require or return true/false? See "return true" in ERC20.sol 
